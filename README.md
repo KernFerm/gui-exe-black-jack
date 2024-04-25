@@ -2,6 +2,8 @@
 
 Welcome to the Blackjack game! This is a simple text-based implementation of the classic casino card game.
 
+## EXE is SIGNED  , PLEASE READ THE README FOR THE APPLICATION IN THE ZIP FILE
+
 ## How to Play
 
 1. **Download and Install:**
@@ -53,5 +55,4 @@ Welcome to the Blackjack game! This is a simple text-based implementation of the
 2. Double-click the downloaded file to install the game on your Windows computer.
 3. After installation, launch the game from the desktop shortcut or the Start menu.
 
--- ## exe is signed
 
