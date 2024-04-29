@@ -52,7 +52,15 @@ Welcome to the Blackjack game! This is a simple text-based implementation of the
 ## Running the Game
 
 1. Download the provided executable file.
-2. Double-click the downloaded file to install the game on your Windows computer.
-3. After installation, launch the game from the desktop shortcut or the Start menu.
+
+2. Extract the zip file.
+
+3. Do the Readme for the .MD in the zipfile that you extracted.
+
+4. After you validated the .exe application. 
+
+5. Double-click the application you good to go. 
+
+6. Enjoy !!!
 
 
