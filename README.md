@@ -61,6 +61,6 @@ Welcome to the Blackjack game! This is a simple text-based implementation of the
 
 5. Double-click the application you good to go. 
 
-6. Enjoy !!!
+6. Enjoy !!! 
 
 
