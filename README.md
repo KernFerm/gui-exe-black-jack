@@ -2,8 +2,6 @@
 
 Welcome to the Blackjack game! This is a simple text-based implementation of the classic casino card game.
 
-## EXE is SIGNED  , PLEASE READ THE README FOR THE APPLICATION IN THE ZIP FILE
-
 ## Download The Exe Application
 
 [GUI_Black-Jack](https://github.com/KernFerm/GUIblackjackEXE/releases/tag/GUI)
